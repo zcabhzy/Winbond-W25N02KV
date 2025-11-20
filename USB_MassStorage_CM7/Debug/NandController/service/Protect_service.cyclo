@@ -1,0 +1,14 @@
+../NandController/service/Protect_service.c:26:6:WriteEnable_Service	2
+../NandController/service/Protect_service.c:52:6:WriteDisable_Service	2
+../NandController/service/Protect_service.c:83:6:SetBlockProtect_Service	5
+../NandController/service/Protect_service.c:126:6:SetWriteProtectEnable_Service	4
+../NandController/service/Protect_service.c:170:6:SetStatusRegisterProtect_Service	6
+../NandController/service/Protect_service.c:218:6:OTPLock_Service	3
+../NandController/service/Protect_service.c:252:6:OTPEnable_Service	4
+../NandController/service/Protect_service.c:289:6:SR1Lock_Service	3
+../NandController/service/Protect_service.c:323:6:SetECCEnable_Service	4
+../NandController/service/Protect_service.c:362:6:SetBufferMode_Service	4
+../NandController/service/Protect_service.c:401:6:SetOutputDriverStrength_Service	4
+../NandController/service/Protect_service.c:442:6:SetHoldDisable_Service	4
+../NandController/service/Protect_service.c:485:6:SetReadMode_Service	6
+../NandController/service/Protect_service.c:543:6:IsBusyWithTimeout_service	3

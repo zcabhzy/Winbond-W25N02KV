@@ -1,0 +1,3 @@
+../NandController/driver/nand_dri_Reset.c:30:6:Reset	1
+../NandController/driver/nand_dri_Reset.c:52:6:EnableReset	1
+../NandController/driver/nand_dri_Reset.c:79:6:DeviceReset	1

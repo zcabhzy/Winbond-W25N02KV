@@ -1,0 +1,2 @@
+../NandController/driver/nand_dri_StatusRegister.c:37:9:ReadStatusRegister	1
+../NandController/driver/nand_dri_StatusRegister.c:74:6:WriteStatusRegister	1

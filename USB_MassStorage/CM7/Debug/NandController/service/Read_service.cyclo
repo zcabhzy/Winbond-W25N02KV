@@ -1,0 +1,2 @@
+../NandController/service/Read_service.c:39:6:StandardRead_Service	6
+../NandController/service/Read_service.c:118:6:RandomRead_Service	6

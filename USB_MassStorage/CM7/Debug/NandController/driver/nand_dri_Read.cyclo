@@ -1,0 +1,12 @@
+../NandController/driver/nand_dri_Read.c:33:6:PageDataRead	1
+../NandController/driver/nand_dri_Read.c:73:6:ReadData	1
+../NandController/driver/nand_dri_Read.c:114:6:FastRead	1
+../NandController/driver/nand_dri_Read.c:138:6:FastReadWith4ByteAddr	1
+../NandController/driver/nand_dri_Read.c:162:6:FastReadDualOutput	1
+../NandController/driver/nand_dri_Read.c:186:6:FastReadDualOutputWith4ByteAddr	1
+../NandController/driver/nand_dri_Read.c:211:6:FastReadQuadOutput	1
+../NandController/driver/nand_dri_Read.c:235:6:FastReadQuadOutputWith4ByteAddr	1
+../NandController/driver/nand_dri_Read.c:260:6:FastReadDualIO	1
+../NandController/driver/nand_dri_Read.c:284:6:FastReadDualIOWith4ByteAddr	1
+../NandController/driver/nand_dri_Read.c:308:6:FastReadQuadIO	1
+../NandController/driver/nand_dri_Read.c:332:6:FastReadQuadIOWith4ByteAddr	1

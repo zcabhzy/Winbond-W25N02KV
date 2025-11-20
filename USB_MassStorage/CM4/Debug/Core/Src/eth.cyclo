@@ -1,0 +1,3 @@
+../Core/Src/eth.c:51:6:MX_ETH_Init	2
+../Core/Src/eth.c:95:6:HAL_ETH_MspInit	2
+../Core/Src/eth.c:191:6:HAL_ETH_MspDeInit	2

@@ -1,0 +1,2 @@
+../NandController/service/Reset_service.c:33:6:DeviceReset_service	1
+../NandController/service/Reset_service.c:65:6:SoftwareReset_service	1

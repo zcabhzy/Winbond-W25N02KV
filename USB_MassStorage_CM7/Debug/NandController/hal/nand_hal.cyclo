@@ -1,0 +1,2 @@
+../NandController/hal/nand_hal.c:20:6:HAL_SPI_TX	1
+../NandController/hal/nand_hal.c:33:6:HAL_SPI_RX	1

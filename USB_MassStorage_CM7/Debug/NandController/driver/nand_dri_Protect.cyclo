@@ -1,0 +1,2 @@
+../NandController/driver/nand_dri_Protect.c:29:6:WriteEnable	1
+../NandController/driver/nand_dri_Protect.c:54:6:WriteDisable	1

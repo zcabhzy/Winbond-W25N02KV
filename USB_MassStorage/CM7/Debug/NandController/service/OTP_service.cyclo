@@ -1,0 +1,2 @@
+../NandController/service/OTP_service.c:46:6:OTP_ReadPage	4
+../NandController/service/OTP_service.c:100:6:OTP_ProgramPage	5
